@@ -1,0 +1,62 @@
+body{
+  padding: 15px;
+  color: blue;
+  line-height: 110%;
+}
+
+h1{
+
+  margin: 10px 0px 40px;
+}
+
+h1, h2{
+  font-variant: small-caps;
+  color: #3F4F5F;
+}
+
+.bevezeto{
+  margin: 10px 200px;
+  text-align: center;
+  background-color: #EBEBEB;
+  padding: 10px 35px;
+  font-size: 75%;
+}
+
+#brikettek{
+  width: 90%;
+  max-width: 500px;
+}
+
+p{
+  text-align: justify;
+}
+
+p:first-letter{
+  margin-left:45px;
+}
+
+#presek{
+  float: right;
+  background-color: #EBEBEB;
+  width: 230px;
+  margin: 0px 15px;
+  text-align: center;
+  font-style: italic;
+  font-size: 75%;
+  padding: 5px;
+  border-left: 1px solid #3F4F5F;
+  border-right: 1px solid #3F4F5F;
+}
+
+#presek img{
+  width: 220px;
+  margin-top: 20px;
+}
+
+.kiemelt{
+  font-style: italic;
+}
+
+li{
+  margin-top: 10px;
+}
