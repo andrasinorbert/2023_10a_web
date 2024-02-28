@@ -1,0 +1,14 @@
+
+/* közvetlen testvér */
+p+p{
+    color: red;
+}
+
+h1+p{
+    color:blue;
+}
+
+/* tetszőleges testvér */
+p~p {
+    background-color: brown;
+}

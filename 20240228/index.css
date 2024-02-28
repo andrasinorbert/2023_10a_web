@@ -1,0 +1,19 @@
+/* univerzális szelektor */
+* {
+    color: green;
+}
+
+/* tipus szelektor */
+h1 {
+    color: red;
+}
+
+/* leszármazott */
+div p {
+    background-color: red;
+}
+
+/* közvetlen gyermek */
+div > p {
+    background-color: purple;
+}
