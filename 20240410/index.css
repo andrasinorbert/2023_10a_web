@@ -1,0 +1,27 @@
+img[width]{
+    border: 3px solid green;
+}
+img[height="200px"]{
+    border: 3px solid pink;
+}
+img[alt~="egy"]{
+    border: 3px solid blue;
+}
+img[title|="egy"]{
+    border: 3px solid red;
+}
+img[height^="2"]{
+    border: 3px solid yellow;
+}
+img[src$=".jpg"]{
+    border: 3px solid purple;
+}
+img[title*="cica"]{
+    border: 3px solid royalblue;
+    margin:10px;
+}
+
+div{
+    border: 4px dotted blue;
+    padding: 5px
+}
